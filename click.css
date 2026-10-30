@@ -1,0 +1,26 @@
+#con{
+    text-align: center;
+}
+#click{
+    width: 200px;
+    height: 100px;
+    font-size: 50px;
+    border-radius: 5px;
+    background-color: aquamarine;
+}
+#click:hover{
+    background-color: rgb(0, 183, 255);
+    color: #f6f6f7de;
+}
+#error{
+    color: red;
+}
+#upgrade, #upgrade2 ,#upgrade3,#upgrade4, #upgrade5 {
+    margin: 30px;
+    display: none;
+    border-radius: 5px;
+    background-color: aqua;
+    color: rgb(3, 3, 3);
+    width: 150px;
+    height: 150px;
+}
